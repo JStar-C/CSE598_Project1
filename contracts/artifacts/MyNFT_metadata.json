@@ -270,6 +270,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "message",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "name",
 				"outputs": [
 					{
@@ -704,11 +717,11 @@
 			]
 		},
 		"contracts/MyToken.sol": {
-			"keccak256": "0xf8b5cd72125c0b0b93babea8ef750db72bd51fd35f956ca21d091d1c1d2bfc50",
+			"keccak256": "0x303c37007a5ccef3d5522bff317214bd5fbeb6a23417bd1e8ee3628b6e63c152",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5b1be0bbafe86b83c9bd05b8eb3a2f9daa6547ddca2d50d86f1bc6a49cce54e9",
-				"dweb:/ipfs/QmQniXeoLU8bYhNdYLzB48LTd3Wn9BUygZNSwxTRDE2XTR"
+				"bzz-raw://b3e89dd985ccacefeeca95c9f45e8a1dc76e875d1c6f56644524f95512d36f70",
+				"dweb:/ipfs/QmYLRQKRGPVyhGz4UwTx73Sm18VJbZBaKbG2PJngtwcUCm"
 			]
 		}
 	},

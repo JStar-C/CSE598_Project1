@@ -16,4 +16,8 @@ contract MyNFT is ERC721 {
         _message = "Build a better future with blockchain - jrcalles";
     }
 
+    function message() public view returns (string memory)
+    {
+        return _message;
+    }
 }
